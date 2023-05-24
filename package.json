@@ -1,0 +1,31 @@
+{
+  "name": "base92",
+  "version": "1.5.0",
+  "description": "Base92 (~3.8 kB)",
+  "devDependencies": {
+    "tinyify": "^4.0.0"
+  },
+  "build": {},
+  "scripts": {},
+  "author": "Affolter Matias",
+  "keywords": [
+    "base92",
+    "baseX",
+    "base64",
+    "b64",
+    "b92",
+    "encode",
+    "decode"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pixa-pics/Base92.git"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "dependencies": {
+    "core-js": "^3.27.1"
+  }
+}
