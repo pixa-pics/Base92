@@ -1,7 +1,7 @@
 {
   "name": "base92",
-  "version": "1.5.0",
-  "description": "Base92 (~3.8 kB)",
+  "version": "3.0.0",
+  "description": "Base92 (~7.3 kB)",
   "devDependencies": {
     "tinyify": "^4.0.0"
   },
